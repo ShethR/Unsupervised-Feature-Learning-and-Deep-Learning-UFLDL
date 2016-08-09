@@ -1,0 +1,26 @@
+# Softmax-Classifier
+
+
+## Description:
+
+* This project trains a softmax classification model to classfiy the MINST's dataset (http://yann.lecun.com/exdb/mnist/) 
+* The code is written in Matlab
+* This project uses 'minFunc' for optimization. 
+## M. Schmidt. minFunc: unconstrained differentiable multivariate optimization in Matlab. http://www.cs.ubc.ca/~schmidtm/Software/minFunc.html, 2005.
+
+* For detailed description please see: 
+  * http://deeplearning.stanford.edu/wiki/index.php/Softmax_Regression
+
+## How to run this code
+* Download the source code
+* Download dataset from http://yann.lecun.com/exdb/mnist/
+  Training : 'train-images-idx3-ubyte' and 'train-labels-idx1-ubyte'
+  Testing  : 't10k-images-idx3-ubyte' and 't10k-labels-idx1-ubyte'
+
+* Run softmaxExercise.m
+
+
+## Whom do I talk to
+
+Jugal Sheth: jugal.sheth@mavs.uta.edu
+
